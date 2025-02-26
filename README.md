@@ -21,14 +21,10 @@ Sou estudante de **Ciência da Computação** e apaixonada por tecnologia, desen
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📈 Estatísticas do GitHub
-
-![Giselle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giselle-almeida&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselle-almeida&layout=compact&theme=dracula)
 
 ## 📫 Contato
 
-📧 **Email:** giselle.almeida@email.com  
+📧 **Email:** giselle.ds.almeida@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/giselle-almeida](https://www.linkedin.com/in/giselle-almeida)  
 🐦 **Twitter:** [twitter.com/giselledev](https://twitter.com/giselledev)
 
